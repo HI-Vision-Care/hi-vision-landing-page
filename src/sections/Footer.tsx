@@ -1,4 +1,4 @@
-import { Heart } from "lucide-react";
+import logo from "../assets/logo.png";
 
 const Footer = () => {
   const footerSections = [
@@ -28,8 +28,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-[#70deff] rounded-full flex items-center justify-center">
-                <Heart className="w-5 h-5 text-white" />
+              <div className="w-10 h-10  rounded-full flex items-center justify-center">
+                <img src={logo} alt="Logo" />
               </div>
               <span className="text-xl font-bold">MedCare HIV</span>
             </div>
