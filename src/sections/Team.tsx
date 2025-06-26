@@ -47,7 +47,8 @@ const Team = () => {
       title: "Chief Executive Officer",
       description:
         "Định hướng chiến lược, quản lý toàn bộ hoạt động công ty và đảm bảo tầm nhìn sản phẩm.",
-      image: "./src/assets/cuong.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/cuong.jpg?alt=media&token=4efba439-0c33-4d74-a92c-26ee99eee284",
       linkedin: "#",
       instagram: "https://www.instagram.com/_the.dia.mond/",
     },
@@ -56,7 +57,8 @@ const Team = () => {
       title: "Chief Marketing Officer",
       description:
         "Chịu trách nhiệm lên kế hoạch marketing, xây dựng thương hiệu và tìm kiếm cơ hội tăng trưởng trên thị trường.",
-      image: "./src/assets/thu.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/thu.jpg?alt=media&token=8fa1fe47-9b69-4324-9a7b-0cf8ff14bb7f",
       linkedin: "#",
       instagram: "#",
     },
@@ -65,7 +67,8 @@ const Team = () => {
       title: "Chief AI Officer",
       description:
         "Lãnh đạo nhóm AI, xây dựng mô hình machine learning và đảm bảo tính khả dụng của các giải pháp AI trong sản phẩm.",
-      image: "./src/assets/thanh1.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/thanh1.jpg?alt=media&token=85527322-d666-4584-9cd9-ea5fd6b9b144",
       linkedin: "#",
       instagram: "#",
     },
@@ -74,7 +77,8 @@ const Team = () => {
       title: "Chief Operating Officer",
       description:
         "Quản lý quy trình vận hành, tối ưu hóa luồng làm việc và đảm bảo các phòng ban phối hợp mượt mà.",
-      image: "./src/assets/hieu.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/hieu.jpg?alt=media&token=deddda83-ca5c-44ac-9e58-03f6fc588583",
       linkedin: "#",
       instagram: "https://www.instagram.com/__nmhiu/",
     },
@@ -83,7 +87,8 @@ const Team = () => {
       title: "BackEnd Lead",
       description:
         "Chịu trách nhiệm thiết kế kiến trúc server, tối ưu API và đảm bảo hệ thống backend hoạt động ổn định.",
-      image: "./src/assets/thanh2.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/thanh2.jpg?alt=media&token=432cb218-ad68-485e-b370-8a5183e63cf7",
       linkedin: "#",
       instagram: "https://www.instagram.com/tdc_woty/",
     },
@@ -92,7 +97,8 @@ const Team = () => {
       title: "Chief Technology Officer",
       description:
         "Định hướng công nghệ, nghiên cứu và ứng dụng các giải pháp kỹ thuật mới để nâng cao hiệu năng sản phẩm.",
-      image: "./src/assets/khoa.jpg",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/movie-management-c2908.appspot.com/o/khoa.jpg?alt=media&token=4ae3da49-1ed9-41f2-a146-0475c499035e",
       linkedin: "#",
       instagram: "https://www.instagram.com/dkhoa_happy/",
     },
